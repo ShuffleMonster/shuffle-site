@@ -1,6 +1,6 @@
 ## Development server
 
-`npm run-script serve``
+`npm run-script serve`
 
 ## Build
 
