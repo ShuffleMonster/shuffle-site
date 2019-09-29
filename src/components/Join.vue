@@ -64,9 +64,9 @@ export default {
     border-color: #ac45d9;
     color: #fff;
 }
-.btn-bamboo{
-    background-color: #40b281;
-    border-color: #399f73;
+.btn-ddex{
+    background-color: #2669CE;
+    border-color: #123F93;
     color: #fff;
 }
 .btn-telegram{
