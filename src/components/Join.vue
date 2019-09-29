@@ -12,7 +12,7 @@
           <!--  -->
         <button v-on:click="open_uniswap" class="action-button join-button btn btn-uniswap">Trade on Uniswap</button>
         <br/><br/>
-        <button v-on:click="open_bamboo" class="action-button join-button btn btn-bamboo">Trade on Bamboo DEX</button>
+        <button v-on:click="open_ddex" class="action-button join-button btn btn-ddex">Trade on DDEX</button>
         <br/><br/>
         <button v-on:click="open_telegram" class="action-button join-button btn btn-telegram">Join our Telegram</button>
           </div>
