@@ -12,7 +12,7 @@
           <!--  -->
         <button v-on:click="open_uniswap" class="action-button join-button btn btn-uniswap">Trade on Uniswap</button>
         <br/><br/>
-        <button v-on:click="open_bamboo" class="action-button join-button btn btn-bamboo">Trade on Bamboo DEX</button>
+        <button v-on:click="open_ddex" class="action-button join-button btn btn-ddex">Trade on DDEX</button>
         <br/><br/>
         <button v-on:click="open_telegram" class="action-button join-button btn btn-telegram">Join our Telegram</button>
           </div>
@@ -64,9 +64,9 @@ export default {
     border-color: #ac45d9;
     color: #fff;
 }
-.btn-bamboo{
-    background-color: #40b281;
-    border-color: #399f73;
+.btn-ddex{
+    background-color: #2669CE;
+    border-color: #123F93;
     color: #fff;
 }
 .btn-telegram{
