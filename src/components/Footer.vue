@@ -4,6 +4,7 @@
     <div class="container">
         <div class="col-md-12">
             <div class="flex-center">
+                <a target="_blank" aria-label="Medium" href="https://medium.com/@ShuffleMonster" class="icon fa fa-medium"></a>
                 <a target="_blank" aria-label="Twitter" href="https://twitter.com/ShuffleToken" class="icon fa fa-twitter"></a>
                 <a target="_blank" aria-label="Telegram chat group" href="https://t.me/shuftoken" class="icon fa fa-telegram"></a>
                 <a target="_blank" aria-label="Github repository" href="https://github.com/Agusx1211/shuffle" class="icon fa fa-github"></a>
