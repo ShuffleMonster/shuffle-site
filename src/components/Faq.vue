@@ -5,29 +5,29 @@
         </div>
         <br/><br/>
         <div class="description">
-            - Who is eligible for the airdrop?
+            - Who were eligible for the airdrop?
             <br/>
             Any user who already had ETH at the block 8113050 is eligible for 150 SHUF tokens for every ETH that the user held at that time. 
             <br/><br/>
-            - Is there any cost? 
+            - Was there any cost? 
             <br/>
-            The only cost of claiming SHUF tokens is the gas of the claim transaction. The tokens are distributed for free.
+            The only cost of claiming SHUF tokens was the gas of the claim transaction. The tokens were distributed for free.
             <br/><br/>
-            - Is there any minimum amount?
+            - Was there any minimum amount?
             <br/>
-            No, you can claim even one single wei.
+            No, you could claim even for one single wei.
             <br/><br/>
-            - And is there a maximum amount?
+            - And was there a maximum amount?
             <br/>
-            The maximum amount of tokens that a single address can claim is 1500 SHUF, equivalent of holding 10 ETH at the block 8113050.
+            The maximum amount of tokens that a single address could claim was 1500 SHUF, equivalent of holding 10 ETH at the block 8113050.
             <br/><br/>
             - How many SHUF tokens are there?
             <br/>
-            The total amount of SHUF is one million and is bound to go down. 
+            The total amount of SHUF was one million and is bound to go down. 
             <br/><br/>
-            - What happens if everybody tries to claim its SHUF? 
+            - What happened if everybody tried to claim its SHUF? 
             <br/>
-            After all the 1000000 tokens are distributed, the airdrop is finished. 
+            After all the 1000000 tokens are distributed, the airdrop finished. 
             <br/><br/>
             - What is the heap?
             <br/>
