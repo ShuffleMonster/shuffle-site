@@ -7,7 +7,7 @@
         <div class="description">
             - Who were eligible for the airdrop?
             <br/>
-            Any user who already had ETH at the block 8113050 is eligible for 150 SHUF tokens for every ETH that the user held at that time. 
+            Any user who already had ETH at block 8113050 was eligible for 150 SHUF tokens for every ETH held at that time.
             <br/><br/>
             - Was there any cost? 
             <br/>
@@ -15,45 +15,45 @@
             <br/><br/>
             - Was there any minimum amount?
             <br/>
-            No, you could claim even for one single wei.
+            No, you could claim for even one single wei.
             <br/><br/>
-            - And was there a maximum amount?
+            - Was there a maximum amount?
             <br/>
-            The maximum amount of tokens that a single address could claim was 1500 SHUF, equivalent of holding 10 ETH at the block 8113050.
+            The maximum amount of tokens that a single address could claim was 1500 SHUF, equivalent to holding 10 ETH at block 8113050.
             <br/><br/>
             - How many SHUF tokens are there?
             <br/>
-            The total amount of SHUF was one million and is bound to go down. 
+            The total amount of SHUF was one million and has already decreased. 
             <br/><br/>
-            - What happened if everybody tried to claim its SHUF? 
+            - What happened if too many tried to claim SHUF? 
             <br/>
-            After all the 1000000 tokens are distributed, the airdrop finished. 
+            After all the 1,000,000 tokens were distributed, the airdrop stopped. 
             <br/><br/>
-            - What is the heap?
+            - What is the Heap?
             <br/>
-            The heap is the data structure used to track the 512 top holders of the token; you can enter and leave the heap depending on how much balance do you have, and how much have the others.
+            The Heap is the data structure used to track the 512 top holders of the token; you may enter or leave the Heap depending on how much balance you have in relation to others.
             <br/><br/>
-            - What happens if I am in the heap?
+            - What happens if I am in the Heap?
             <br/>
-            On every transaction, you are eligible to be the winner of the 1% of the amount transferred.
+            On every transaction made you may win 1% of the amount transferred.
             <br/><br/>
             - What is the SHUF transaction fee?
             <br/>
-            Almost all transfers of SHUF tokens have a surcharge of 2%, half of the amount is going to be burned, and the other half is sent to a winner drawn from the heap.
+            Almost all transfers of SHUF tokens have a surcharge of 2%, half of the amount is burned, and the other half is sent to a winner drawn from the Heap.
             <br/><br/>
-            - What is burning tokens?
+            - What is the burning of tokens?
             <br/>
-            When tokens are burned, they are no longer part of the total emission of SHUF token, this adds to its scarcity and increases the value of the remaining tokens.
+            When tokens are burned, they are no longer part of the total emission of SHUF token, this adds to its scarcity and should increase the value of the remaining tokens.
             <br/><br/>
             - How is the random winner selected?
             <br/>
-            The address of the sender is used as the seed of the random number generator, and with that unique generator, the index of the winner is obtained.
+            The address of the sender is used as the seed of a random number generator, and from that unique generator, the index of the winner is obtained.
             <br/><br/>
-            In this manner, we limit the ability of the sender to manipulate who is going to be the winner when they make a transfer.
+            In this manner, we limit the ability of a sender to manipulate who is going to become the winner when they make a transfer.
             <br/><br/>
             - What goes to the developer?
             <br/>
-            We keep 6% of the token emission, and we are subject to the same fees as every other user, also we don't have any means to emit or manipulate the circulating tokens.
+            6% of the token emission, and we are subject to the same fees as every other user, also we don't have any means to emit or manipulate the circulating tokens.
             <br/><br/>
             - Is the project open source?
             <br/>
