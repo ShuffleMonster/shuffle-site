@@ -18,8 +18,8 @@
                 <div class="description">
                     <p>On every token transaction, a transaction fee of 2% of the transferred amount is charged.</p>
                     <br/>
-                    <p>- 1% is burned, reducing the total amount of circulating shuf token. </p>
-                    <p>- 1% is assigned randomly to one of the 512 top token holders.</p>
+                    <p>- 1% is burned, reducing the total amount of circulating Shuf tokens. </p>
+                    <p>- 1% is drawn randomly to one of the 512 top token holders.</p>
                 </div>
             </div>
         </div>
