@@ -52,7 +52,7 @@ export default {
     open_telegram: function() {
         var redirectWindow = window.open(`https://t.me/shuftoken`, '_blank');
         redirectWindow.location;
-    }
+    },
     open_ddex: function() {
         var redirectWindow = window.open(`https://legacy.ddex.io/trade/SHUF-WETH`, '_blank');
         redirectWindow.location;
